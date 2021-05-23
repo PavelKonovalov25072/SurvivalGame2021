@@ -12,4 +12,4 @@
   * Оперативная память 4 гигабайта
   * Видеокарта GeForce GTX 560
   * Операционная система Windows 10
-- [logo]: https://github.com/PavelKonovalov25072/SurvivalGame2021/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-05-23%20181118.png
+- ![fancy picture] https://github.com/PavelKonovalov25072/SurvivalGame2021/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202021-05-23%20181118.png
